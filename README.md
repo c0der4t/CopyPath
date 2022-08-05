@@ -2,20 +2,20 @@
 ### 🛠 A small but useful utility
 
 Once installed, CopyPath will add an entry to your right-click context menu in Windows Explorer:
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659660488099/kBYxh86Fx.png align="left")
+![image.png](https://github.com/c0der4t/CopyPath/blob/main/ReadMeImages/ksnip_20220804-184733.png align="left")
 
 Now, whenever you need the path to a file or directory, just right-click > CopyPath (see what we did there 😉)
 
 ## 👀 Examples
 
 **🔳 Copy current directory - Right click whitespace:**
-![Whitespace(1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659661874555/4jTpelYJV.png align="left")
+![Whitespace(1).png](https://github.com/c0der4t/CopyPath/blob/main/ReadMeImages/Whitespace(1).png align="left")
 
 **📂 Copy selected directory path**
-![Directory(1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659661890089/XRa3vSKQC.png align="left")
+![Directory(1).png](https://github.com/c0der4t/CopyPath/blob/main/ReadMeImages/Directory(1).png align="left")
 
 **📄 Copy selected file path**
-![File(1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659661902835/kuFWgJnZS.png align="left")
+![File(1).png](https://github.com/c0der4t/CopyPath/blob/main/ReadMeImages/File(1).png align="left")
 
 
 ## ⬇ Download CopyPath
