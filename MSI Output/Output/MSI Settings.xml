@@ -1,0 +1,44 @@
+<MsiWrapper>
+  <Installer>
+    <IconFile Detect="executable" Value="base64:AAABAAEAAAAAAAEAIABzCQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAEAAAABAAgGAAAAXHKoZgAA&#xD;&#xA;AAlwSFlzAAALEwAACxMBAJqcGAAACSVJREFUeJzt3c9yHOUVhnE22CnnAlJscCthQQQkqWIvFTvv&#xD;&#xA;kIpiG3a5lYQQHDuRu0sbXMXSW4+g8geuIYltklxBlgndgk1sJv3J2CayBZJ6Zk73nN9T9ZRd5c18&#xD;&#xA;p33eOWc06n7uOQAAAAAAAAAAAAAAAEySrTcPXtveObi+tTO7u7U7Ozyy//v27uza9u7tV6NfH4Al&#xD;&#xA;cOXKRxf7Zq/75n+wvXswf6bl33YObmy+fetC9OsFsCBK8/eN/emJjf9UEMw+EQLAmtC/8zenbv4n&#xD;&#xA;IbAX/boBDOTrnf/ksf8Et3YO7r/x1sevRL9+AAMoH/id+d3/SQhcjX79AAawvTu7NyAA7kS/fgAD&#xD;&#xA;2NqZdecNgN42+vUDGMCA5j8y+vUDGIAAABIjAIDECAAgMQIASIwAABIjAIDECAAgMQIASIwAABIj&#xD;&#xA;AIDECAAgMQIASIwAABIjAIDECAAgMQIASIwAABIjAIDECAAgMQIASIwAABIjAIDECAAslB/tda9s&#xD;&#xA;NO1vq6a9u1F3hxtNNyfz2n7Z//mPqunqqjn8aXR/Lo3NW/MLVd3+fqNu78cXnRyhdftVCYIX9ueX&#xD;&#xA;ovt1oRw1f9P+KbzA5BSsu3svNu1mdN8ujKN3/uiiklOyX4+r+vCd6N4dzNHOb+wnz2fd3Zz0StA3&#xD;&#xA;/7XwIpJTtu7+/sP97rXoXj4XZZ8JLyA5dae6ElRN14UXj1wb2w9/8OG/vh/d16cmvmDkmjmllSC8&#xD;&#xA;WORa2n5Z1e0vovv7O4kvFLnOjnwliC8QueaOeSUILw6ZwpGuBPGFITM5spUgviBkMse0EoQXg0zp&#xD;&#xA;SFaC+EKQmQ1eCeILQCY3ciUIPzzJedhKEH9wkk9c8UoQf2CS/+cqV4Lww5J8hitaCeIPSvJkl7wS&#xD;&#xA;xB+Q5Le6zJUg/HAkT+GSVoL4g5E8rVXTfVBu4y8AyKT2IXD7pevziwKAzGrdvSsAyKRWTfvfy/vt&#xD;&#xA;ywKAzOuvBACZ1br9iwAg8/pvAUDmVQCQabUCkHmtmu6XAoBMqB8DkoldyLu/ACCnp68Ck0n1y0Bk&#xD;&#xA;Sv06MJlTNwQhs+qWYGRC3RSUzKnbgpNZ9WAQMqEeDUbm1MNByax6PDiZ0KCRXwCQwUaO/McJLwaZ&#xD;&#xA;yuCR/zjxBSEzOJKR/zjxhSHX3DGN/McJLw651o5s5D9OfIHIdXSkI/9x4gtFrpljHvmPU9VdG14w&#xD;&#xA;cm0c+ch/nKpp78YXjZy4dXdY1YfvRPfzmen3lKvhxSOn7JRG/uO82LSbG3V7P7yI5BStu5sv7M8v&#xD;&#xA;RffxIPq95Xp4IckpOdWR/1m8vj9/vl8F/hheVHIK1t29MjlH9+1CKSHQrwLXyiOHwgtMjtL2QVV3&#xD;&#xA;NyY/8n8bJdn6aeD9PgjuVE3XxRedDLRuv+j//Kzvh73JftCH9WV792A+xOjXD2AAAgBIjAAAEiMA&#xD;&#xA;gMQIACAxAgBIjAAAEiMAgMQIACAxAgBIjAAAEiMAgMQIACAxAgBIjAAAEiMAsFZc3jv8WdV0dVV3&#xD;&#xA;/yxPVwm/IQQZabn3YNPeLXfvXrvbkH2Tcpul/rDNRt1+FV50cowe3b27vV5u3xfdrwvl4a3Ju3vh&#xD;&#xA;BSYnYLmB79qEQLm1chlzootKTsq6vRbdu4P4euS/GV5IcoKWu3dfvtH+OLqPz8Xl/fblfoz5W3QR&#xD;&#xA;ySlb7t4d3ctnxshPLsZy6/7ofj41l2/Ov+cRZOTirOquje7rU2HkJ5djdG9/J1Vz+HMjP7kco/v7&#xD;&#xA;RIz85PKN7vNnYuQnV2N0rz+FkZ9cndH9/hgjP7l6o/v+CCM/GWN07xv5yUDDGt/IT8Yb0/xGfnIU&#xD;&#xA;rrz5jfzkeFxZ4xv5yfG5muY38pOjdOnNb+Qnx+vSGt/IT47f5TS/kZ+chAtvfiM/OR0X1vibt+YX&#xD;&#xA;qqb7IPpAJE/vQpq/7Pt988+iD0PybC4kADbq9r3og5A8u4Obv9xb/OEjh+IPQ/JsDn/3b7pfRx+C&#xD;&#xA;5PkcHABV0/41+hAkz+cCAqD7PPoQJM/n8ACou/9EH4Lk+VzABGAFIKfq4ADY8CEgOVkHB0D5MWB5&#xD;&#xA;1HD0QUie3cEBUNiou3ejD0Ly7C4kAF66Pr9YNd3t6MOQPJsLCYCCXwYip+fCAuARfh2YnI4LD4CC&#xD;&#xA;G4KQ03ApAXAUAm4JRo7epQXAI6wE5HhdegAUrATkOF1JAByFgJWAHJ0rC4BHWAnI8bjyAChYCchx&#xD;&#xA;GBIARyFgJSDDDQuAR1gJyDij+/8IKwEZY3TvP8ZKQK7e6L5/CisBuTqj+/2ZWAnI1Rjd6ydiJSCX&#xD;&#xA;b3SffydWAnJ5Rvf3qbASkMsxurdPjZWAXKzloT7RfX1mqvrwHSsBOdyqae9E9/O5sBKQC7Bu34vu&#xD;&#xA;5XPzwv78Uj8J3AwvIjlBy7M8yhtpdB8PxkpAnt1+gr4a3bsL48Wm3exD4F50Uclp2P7h9f3589F9&#xD;&#xA;u1DKSlA1Xd0f7kF8gcnxWcb+8s6/ds3/TTZudD/pD7rXH/izjbr9IrroZKT9m2JXPu3v/U15jmd0&#xD;&#xA;f2JkbO8ezIcY/foBDEAAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEA&#xD;&#xA;JEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQ&#xD;&#xA;GAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBiBACQGAEAJEYAAIkRAEBi&#xD;&#xA;BACQGAEAJEYAAIkRAEBiBACwQrbePHhte+fg+tbO7O7W7uxwaANmt9Sw1HJ7d3Zte/f2q9HXF3gm&#xD;&#xA;V658dLH/z1r3zf8gumnW1lLbnYMbm2/fuhB9vYHHlObv/2N+Gt4gWdyZfSIEMBr6d/4mvCmyuTPb&#xD;&#xA;i77uwKOd39i/Yrd2Du6/8dbHr0RffySnfOAX3QxZ7UPgavT1R3K2d2f3ohshq30A3Im+/kjO1s6s&#xD;&#xA;i26ExLbR1x/JEQCRzj6Pvv5IjhUgTisAwnn4DbX4Zsjp7P3o64/klK+nlh9JxTdDLv0YEKOhfD01&#xD;&#xA;uiGy2QfA76KvO3BE+Vpq+XpqdFNkcWt39mdfBcao+DoE9qwDS2z8vrblnV/zY7SUvbR8Q618Qu1H&#xD;&#xA;hIto+ln3sJYHV+38AAAAAAAAAAAAAAAAJ/M/cQjWdKQn4GUAAAAASUVORK5CYII=" />
+    <Output FileName="C:\Users\monte\Dev\CopyPath\MSI Output\Output\CopyPath_innosetup.msi" />
+    <InstallPrivileges Value="Elevated" />
+    <PerUser Value="no" />
+    <ElevateExecutable Value="administrators" />
+    <UpgradeCode Value="{FB10AEE1-79E4-4127-880E-2AF997C3652E}" />
+    <ProductId Value="" />
+    <Platform Value="x86" />
+    <Registration Value="Visible" />
+    <RegistrationWrapped Value="Hidden" />
+    <Manufacturer Detect="executable" Value="Ekron Digital Solutions" />
+    <ProductVersion Detect="executable" Value="0.0.0.0" />
+    <ProductName Detect="executable" Value="CopyPath" />
+    <Comments Detect="executable" Value="This installation was built with Inno Setup." />
+    <Contact Detect="" Value="" />
+    <HelpLink Detect="" Value="" />
+    <UpdateLink Detect="" Value="" />
+    <AboutLink Detect="" Value="" />
+  </Installer>
+  <WrappedInstaller>
+    <Executable FileName="C:\Users\monte\Dev\CopyPath\MSI Output\Output\CopyPath_innosetup.exe" SuccessCodes="" Impersonate="no" IncludeFiles="no" CompressionLevel="None" />
+    <ApplicationId Value="" />
+    <Install>
+      <Arguments Value="/VERYSILENT">
+        <UILevelNone Value="" />
+        <UILevelBasic Value="" />
+        <UILevelReduced Value="" />
+        <UILevelFull Value="" />
+      </Arguments>
+      <RunBeforeInstall Value="" />
+      <RunAfterInstall Value="reg import &quot;C:\Program Files (x86)\CopyPath\CopyPath_ContextmenuAdd.reg&quot;" />
+    </Install>
+    <Uninstall>
+      <Arguments Value="">
+        <UILevelNone Value="" />
+        <UILevelBasic Value="" />
+        <UILevelReduced Value="" />
+        <UILevelFull Value="" />
+      </Arguments>
+    </Uninstall>
+  </WrappedInstaller>
+</MsiWrapper>
